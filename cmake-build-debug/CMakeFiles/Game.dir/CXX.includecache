@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/controller.cpp
+controller.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/controller.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/controller.h
+model.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/model.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/door.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/item.h
+iostream
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/listen.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/listener.h
+listen.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/listen.h
+iostream
+-
+vector
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/main.cpp
+view.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/view.h
+controller.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/controller.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/model.cpp
+model.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/model.h
+ctime
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/model.h
+listener.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/listener.h
+player.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/player.h
+room.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/room.h
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/player.h
+item.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/item.h
+vector
+-
+cstring
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/room.h
+door.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/door.h
+item.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/item.h
+vector
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/view.cpp
+view.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/view.h
+conio.h
+-
+cstdio
+-
+
+C:/Users/Ivan Fedorenko/CLionProjects/Game/view.h
+cmath
+-
+cstdio
+-
+cstdlib
+-
+ctime
+-
+conio.h
+-
+model.h
+C:/Users/Ivan Fedorenko/CLionProjects/Game/model.h
+
